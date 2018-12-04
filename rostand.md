@@ -19,13 +19,13 @@
   Hush! hush!  
   
 ## CYRANO:  
-  A kiss, when all is said,--what is it?  
-  An oath that's ratified,--a sealed promise,  
-  A heart's avowal claiming confirmation,--  
-  A rose-dot on the 'i' of 'adoration,'--  
-  A secret that to mouth, not ear, is whispered,--  
-  Brush of a bee's wing, that makes time eternal,--  
-  Communion perfumed like the spring's wild flowers,--  
+  A kiss, when all is said, what is it?  
+  An oath that's ratified, a sealed promise,  
+  A heart's avowal claiming confirmation,
+  A rose-dot on the 'i' of 'adoration,'  
+  A secret that to mouth, not ear, is whispered,
+  Brush of a bee's wing, that makes time eternal,
+  Communion perfumed like the spring's wild flowers,
   The heart's relieving in the heart's outbreathing,  
   When to the lips the soul's flood rises, brimming!  
   
