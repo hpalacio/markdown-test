@@ -11,6 +11,8 @@ Some **bold** text
 * list
 * list
 * list
+* > **IMPORTANT**: this is a very important warning
+  > created as a quoted paragraph
 
 </div>
 
