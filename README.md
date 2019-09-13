@@ -18,3 +18,9 @@ Some **bold** text
 
 > **_NOTE:_**  The note content.
 > more content
+
+---
+**IMPORTANT**: this is a very important warning
+surrounded by horizontal lines.
+
+---
