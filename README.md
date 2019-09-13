@@ -13,3 +13,6 @@ Some **bold** text
 * list
 
 </div>
+
+> **_NOTE:_**  The note content.
+> more content
