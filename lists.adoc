@@ -1,0 +1,32 @@
+This is an example of a regular ordered list in Asciidoc using *default symbols*:
+
+. Item A
+. Item B
+.. Step a
+... Stage I
+... Stage II
+.... Part x
+.... Part y
+.... Part w
+... Stage III
+.. Step b
+.. Step c
+. Item C
+
+This is an example of a regular ordered list in Asciidoc using *specific symbols*:
+
+. Item A
+. Item B
+[loweralpha]
+.. Step a
+[lowerroman]
+... Stage I
+... Stage II
+[decimal]
+.... Part x
+.... Part y
+.... Part w
+... Stage III
+.. Step b
+.. Step c
+. Item C
