@@ -22,7 +22,7 @@ This is an example of a regular ordered list in Asciidoc using *specific symbols
 [lowerroman]
 ... Stage I
 ... Stage II
-[decimal]
+[arabic]
 .... Part x
 .... Part y
 .... Part w
