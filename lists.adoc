@@ -1,32 +1,76 @@
-This is an example of a regular ordered list in Asciidoc using *default symbols*:
+This is an example of a regular ordered list in Asciidoc with no specifiers.
 
-. Item A
-. Item B
-.. Step a
-... Stage I
-... Stage II
-.... Part x
-.... Part y
-.... Part w
-... Stage III
-.. Step b
-.. Step c
-. Item C
+.Source code
+[source]
+....
+. First level
+. First level
+.. Second level
+... Third level
+... Third level
+.... Fourth level
+.... Fourth level
+.... Fourth level
+... Third level
+.. Second level
+.. Second level
+. First level
+....
 
-This is an example of a regular ordered list in Asciidoc using *specific symbols*:
+which renders as:
 
-. Item A
-. Item B
+. First level
+. First level
+.. Second level
+... Third level
+... Third level
+.... Fourth level
+.... Fourth level
+.... Fourth level
+... Third level
+.. Second level
+.. Second level
+. First level
+
+
+This is an example of a regular ordered list in Asciidoc using *specific symbols* to change the list style:
+
+.Source code
+[source]
+....
 [loweralpha]
-.. Step a
+. First level
+. First level
+[decimal]
+.. Second level
+[loweralpha]
+... Third level
+... Third level
 [lowerroman]
-... Stage I
-... Stage II
-[arabic]
-.... Part x
-.... Part y
-.... Part w
-... Stage III
-.. Step b
-.. Step c
-. Item C
+.... Fourth level
+.... Fourth level
+.... Fourth level
+... Third level
+.. Second level
+.. Second level
+. First level
+....
+
+which renders as:
+
+[loweralpha]
+. First level
+. First level
+[decimal]
+.. Second level
+[loweralpha]
+... Third level
+... Third level
+[lowerroman]
+.... Fourth level
+.... Fourth level
+.... Fourth level
+... Third level
+.. Second level
+.. Second level
+. First level
